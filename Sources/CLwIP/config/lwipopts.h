@@ -85,7 +85,7 @@
 
 #define LWIP_TCPIP_CORE_LOCKING_INPUT 1
 
-#define LWIP_ERR_T err_enum_t
+//#define LWIP_ERR_T err_enum_t
 
 /*
    -----------------------------------------------
